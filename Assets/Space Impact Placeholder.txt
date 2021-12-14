@@ -1,0 +1,6 @@
+Space Impact PlaceHolder
+Square_10_x_10 - Beam
+Square_20_x_10 - Missile
+Square_25_x_25 - Rocket
+Square_50_x_50 - Enemy
+Square_100_x_100 - Player / Boss

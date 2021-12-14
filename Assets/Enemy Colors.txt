@@ -1,0 +1,4 @@
+150 150 150 - Basic Enemy
+150 75 75 - Triangle Enemy
+75 150 75  - Fish Enemy
+75 75 150 - Rocket Enemy
